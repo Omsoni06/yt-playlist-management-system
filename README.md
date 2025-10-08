@@ -2,7 +2,7 @@
 
 > Transform YouTube playlists into structured learning courses with AI-powered features
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://your-link.vercel.app)
+[![Live Demo](https://yt-playlist-management-system.vercel.app/)
 [![Tech Stack](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org)
 
 ## 🎯 Problem Statement
